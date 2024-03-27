@@ -1,4 +1,4 @@
-package bangundatar;
+package Bangundatar;
 
 public interface Shape {
     double calculateArea();
