@@ -1,4 +1,4 @@
-package bangundatar;
+package Bangundatar;
 
 public class Lingkaran implements Shape {
     private double jariJari;
