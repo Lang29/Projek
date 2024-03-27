@@ -1,4 +1,4 @@
-package bangundatar;
+package Bangundatar;
 
 public abstract class Segitiga implements Shape {
     protected double alas;
