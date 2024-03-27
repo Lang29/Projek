@@ -1,4 +1,4 @@
-package bangundatar;
+package Bangundatar;
 
 public class Persegi implements Shape {
     private double sisi;
